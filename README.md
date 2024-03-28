@@ -13,8 +13,6 @@ As a prerequisite, please make sure that you have installed a current version of
 conda env create --name hatespeech-dataset-gmhp7k --file=environment.yml
 
 conda activate hatespeech-dataset-gmhp7k
-
-pip install de_core_news_sm==3.7.0 -f ./
 ```
 
 ## License
