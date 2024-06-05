@@ -154,26 +154,28 @@ The corpus is provided under the terms of the [Creative Commons Attribution 4.0 
 
 <img alt="license" src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by.png" width="118" height="41">
 
-<!--
 ## Citation
-The corpus was first presented at [ICWSM 2024](https://www.icwsm.org/2024/).
+The corpus was first presented at [ICWSM 2024](https://www.icwsm.org/2024/). You can find a copy of the [paper here](https://ojs.aaai.org/index.php/ICWSM/article/view/31438). 
 > *Jonas Glasebach, Max-Emanuel Keller, Alexander Döschl, Peter Mandl<br>
 > **GMHP7k: A corpus of German misogynistic hatespeech posts**<br>
 > Proceedings of the Eighteenth International AAAI Conference on Web and Social Media<br>
 > Buffalo, NY, USA, June 6–9, 2024<br>*
 
-If you are using the corpus, please cite the following publication. You can find a copy of the [paper here](https://www.icwsm.org/2024/). Reference in BibTeX format:
+If you are using the corpus, please cite the following publication. Reference in BibTeX format:
  ```
-@inproceedings{Glasebach.2024,
- author = {Glasebach, Jonas and Keller, Max-Emanuel and Döschl, Alexander and Mandl, Peter},
- title = {GMHP7k: A corpus of German misogynistic hatespeech posts},
- booktitle = {Proceedings of the 25th Conference of Open Innovations Association FRUCT},
- series = {ICWSM 2024},
- year = {2024},
- location = {Buffalo, NY, USA},
+@article{Glasebach.2024, 
+	author={Glasebach, Jonas and Keller, Max-Emanuel and Döschl, Alexander and Mandl, Peter},
+	title={GMHP7k: A Corpus of German Misogynistic Hatespeech Posts}, 
+	url={https://ojs.aaai.org/index.php/ICWSM/article/view/31438}, 
+	DOI={10.1609/icwsm.v18i1.31438}, 
+	journal={Proceedings of the International AAAI Conference on Web and Social Media},
+	volume={18}, 	
+	year={2024}, 
+	number={1}, 
+	month={May}, 
+	pages={1946-1957} 
 }
  ```
--->
 
 ## How to use the data set?
 The [repository to this page](https://github.com/ccwi/corpus-gmhp7k) provides the data set to the corpus along with the statistics and instructions for use.
