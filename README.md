@@ -155,7 +155,7 @@ The corpus is provided under the terms of the [Creative Commons Attribution 4.0 
 <img alt="license" src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by.png" width="118" height="41">
 
 ## Citation
-The corpus was first presented at [ICWSM 2024](https://www.icwsm.org/2024/). You can find a copy of the [paper here](https://ojs.aaai.org/index.php/ICWSM/article/view/31438). 
+The corpus was first presented at [ICWSM 2024](https://www.icwsm.org/2024/). You can find a copy of the [paper here](https://doi.org/10.1609/icwsm.v18i1.31438). 
 > *Jonas Glasebach, Max-Emanuel Keller, Alexander Döschl, Peter Mandl<br>
 > **GMHP7k: A Corpus of German Misogynistic Hatespeech Posts**<br>
 > Proceedings of the Eighteenth International AAAI Conference on Web and Social Media<br>
